@@ -13,10 +13,14 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Hi! Thanks for visiting my personal website.
+
+I'm an aspiring Phd. I completed my Diploma (Integrated Masters) in Mechanical Engineering at Aristotle University in Thessaloniki, Greece.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

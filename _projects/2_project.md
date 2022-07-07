@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: precise farming
+description: milk bovine feeding monitoring
 img: assets/img/3.jpg
 importance: 2
 category: work
