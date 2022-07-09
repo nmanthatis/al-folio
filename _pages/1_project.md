@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: MPU-RX4
+permalink: /projects/1_project
+description: control system for autonomous flight
+img: assets/img/RX4_render.png
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
@@ -36,7 +37,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/RX4_render.png" title="example image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">

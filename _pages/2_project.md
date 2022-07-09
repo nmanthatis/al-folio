@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: PreLive
+permalink: /projects/2_project
+description: Milk Bovine Precise Farming
+img: assets/img/RX4_render.png
+importance: 2
 ---
 
 Every project has a beautiful feature showcase page.
