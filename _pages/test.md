@@ -1,10 +1,12 @@
 ---
 layout: page
-title: PreLive
-permalink: /projects/2_project
-description: Milk Bovine Precise Farming
+title: MPU-RX4
+permalink: /projects/1_project
+description: control system for autonomous flight
+nav=false
 img: assets/img/RX4_render.png
-importance: 2
+importance: 1
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
@@ -36,7 +38,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/RX4_render.png" title="example image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
