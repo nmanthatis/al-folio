@@ -3,6 +3,6 @@ layout: page
 title: PreLive
 description: Precise Farming side project
 img: assets/img/prelive-logo.jpg
-importance: 2
+importance: 3 
 category: work
 ---

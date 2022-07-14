@@ -2,27 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='google.com'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  <strong>Planning to :</strong> Phd in Mechanical Engineering. <strong>Previously :</strong> <a href='https://linkedin.com/company/uav-irc/about'>UAV-iRC</a>, <a href='https://meng.auth.gr/en/'>MEng AUTH</a>, <a href='https://maschinenbau.rwth-aachen.de'>RWTH Aachen</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>33 Iroon Polytechneiou</p>
-    <p>Messolonghi, Aitoloakarnania 30200</p>
+    <p>Temporarily based in Messolonghi, Greece 30200</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! Thanks for visiting my personal website.
+Hi and thanks for stopping by!
 
-I'm an aspiring Phd. I completed my Diploma (Integrated Masters) in Mechanical Engineering at Aristotle University in Thessaloniki, Greece.
+I'm a Mechanical Engineering graduate from [Aristotle University of Thessaloniki](https://auth.gr/en). My field of specialization is `Control Theory` and `System Dynamics`.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://google.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I worked at the UAV-iRC center that develops and manufactures novel UAVs. I was a member of the control team, under the supervision of [Prof. P. Seferlis](https://users.auth.gr/seferlis) where our goal was to create the control algorithm for the autonomous flight of a VTOL UAV. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am looking forward to enrich my knowledge in control systems and apply it in biomedical problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

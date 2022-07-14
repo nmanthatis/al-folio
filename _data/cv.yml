@@ -17,30 +17,23 @@
       description:
         - Laboratory of Machine Dynamics
         - Overall GPA 8.19 out of 10.
-        - title: 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Robotics systems Engineering M.Sc. Exchange semester
       institution: RWTH University, Aachen, Germany
       year: 2018 - 2019
-      #      description:
-      #  - Description 1.
-      #  - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher Engineer
+    - title: Research Project  MPU - Multirole Portable UAV
       institution: <a href="https://www.linkedin.com/company/uav-irc/about">UAC-iRC</a> @ <a href="https://kedek.auth.gr">Center for Interdisciplinary Research and Innovation (KEDEK)</a> 
       year: 2020 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        Design and implementation of autonomous flight control system.
+    - title: Research Project PreLive - Precise Livestock Management 
+      institution: <a href="https://www.linkedin.com/company/uav-irc/about">UAC-iRC</a> @ <a href="https://kedek.auth.gr">Center for Interdisciplinary Research and Innovation (KEDEK)</a> 
+      year: 2020 - 2021
+      description:
+        Sensor network development for condition monitoring and control.
               #    - title: Visiting Professor
               #      institution: California Institute of Technology, Pasadena, California, US
               #      year: 1933
@@ -79,20 +72,20 @@
               #      items: 
               #        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> travelling, Hobby 2, etc.
-    - <u>Sports:</u> travelling, Hobby 2, etc.
+              #- title: Academic Interests
+              #  type: nested_list
+              #  contents:
+              #    - title: Topic 1.
+              #      items: 
+              #        - Description 1.
+              #        - Description 2.
+              #    - title: Topic 2.
+              #      items:
+              #        - Description 1.
+              #        - Description 2.
+              #
+              #- title: Other Interests
+              #  type: list
+              #  contents:
+              #    - <u>Hobbies:</u> travelling, Hobby 2, etc.
+              #    - <u>Sports:</u> travelling, Hobby 2, etc.

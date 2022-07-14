@@ -1,10 +1,8 @@
 ---
 layout: page
-title: PreLive
-permalink: /projects/2_project
-description: Milk Bovine Precise Farming
-img: assets/img/RX4_render.png
-importance: 2
+title: 1_project
+permalink: /projects/1_project
+subtitle: <a href='google.com'>Affiliations</a>. Address. Contacts. Moto. Etc.
 ---
 
 Every project has a beautiful feature showcase page.
@@ -78,3 +76,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+

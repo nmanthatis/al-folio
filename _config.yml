@@ -18,7 +18,7 @@ icon:  favicon.png # the emoji used as the favicon (alternatively, provide image
 
 url: manthatis.com # the base hostname & protocol for your site
 baseurl: #the subpath of your site, e.g. /blog/
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -53,10 +53,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: #nmanthatis
+github_username: nmanthatis
 gitlab_username: # your GitLab user name
-twitter_username: #NManthatis
-linkedin_username: nikolaos-manthatis
+twitter_username: NManthatis
+linkedin_username: manthatis
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
- The best way to reach me is through email.
+ The best way to reach out to me is through email.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -114,7 +114,7 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
 news_scrollable:  false # adds a vertical scroll bar if there are more than 3 news items
@@ -271,7 +271,7 @@ enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
+enable_tooltips:            true   # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
