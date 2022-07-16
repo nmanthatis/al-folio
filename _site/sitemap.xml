@@ -38,15 +38,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/prelive/</loc>
-<lastmod>2022-07-14T22:12:25+03:00</lastmod>
+<lastmod>2022-07-16T13:43:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/rx4/</loc>
-<lastmod>2022-07-14T22:12:25+03:00</lastmod>
+<lastmod>2022-07-16T13:43:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/thesis/</loc>
-<lastmod>2022-07-14T22:12:25+03:00</lastmod>
+<lastmod>2022-07-16T13:43:00+03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/1_project</loc>
@@ -62,6 +62,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/about_bu.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/dropdown.html</loc>
@@ -106,7 +109,7 @@
 <loc>http://localhost:4000/blog/2021/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdf/nikos_manthatis_cv.pdf</loc>
+<loc>http://localhost:4000/assets/pdf/n_manthatis_cv.pdf</loc>
 <lastmod>2022-07-08T22:35:48+03:00</lastmod>
 </url>
 </urlset>
