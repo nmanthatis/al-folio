@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/ #assets/pdf/n_manthatis_cv.pdf
+permalink: /cv/ 
 title: cv
 nav: true
 nav_order: 3
