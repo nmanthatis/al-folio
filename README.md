@@ -1,3 +1,9 @@
+# my personal site manthatis.com
+- [ ] write instruction about how to compile the site and how is the server synchronized with github page.
+
+# NOTE
+
+to include the projects that are been build delete the correspoding lines on \_config.yml.
 # al-folio
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)

@@ -71,7 +71,7 @@ Fig.3:  Thrust Measurung Device diagram.
 
 <h4> Experimental Configuration  </h4>
 The resources needed to manufacture an original MPU aerial vehicle led to the
-design and construction of an inexpensive and easily repairable experimental 
+**design** and **construction** of an inexpensive and easily repairable experimental 
 device. The design was done with Autodesk Inventor and aluminium and 3D printed
 PLA were used as building materials. A tricopter in "T" shape was designed that
 adequately reproduces the function of the original vehicle. In Figure 4 an 

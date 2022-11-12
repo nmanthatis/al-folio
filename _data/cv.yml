@@ -56,16 +56,17 @@
   type: map
   contents:
     - name: Programming Languages
-      value: Python, MATLAB/Octave, C, C++.
+      value: Python (PyTorch), MATLAB, C, C++.
     - name: Operating Systems 
       value: GNU/Linux, Microsoft Windows
     - name: Various
-      value: Autodesk AutoCAD/Inventor, Ultimaker Cura, Mathworks Simulink, Latex, Markdown        
+      value: Autodesk AutoCAD/Inventor, Ultimaker Cura,
+        Lychee Slicer, Mathworks Simulink, Latex, Markdown        
 
 - title: Other Interests
   type: list
   contents:
   - <u>Sports:</u> Hiking, Swimming,  Windsurf
-  - <u>Hobbies:</u> International travel, 3D printing, Fishing
+  - <u>Hobbies:</u> Travel, 3D printing, Fishing
 
 
