@@ -4,7 +4,10 @@
 # NOTE
 
 to include the projects that are been build delete the correspoding lines on \_config.yml.
+# Hostinger auto deployment from github.
+[hostinger](https://hpanel.hostinger.com/hosting/manthatis.com) advanced->git
 # al-folio
+
 
 [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
